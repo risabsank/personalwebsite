@@ -1,0 +1,33 @@
+$color: black;
+$colortwo: #78e395;
+$colorthree: #c1f7cf;
+
+.row > div {
+  padding: 20px;
+  border: 2px solid $color;
+}
+
+%styles {
+  font-family: times;
+  font-style:italic;
+}
+
+body {
+  background: $colorthree;
+}
+
+.row {
+  font-size: 20px;
+}
+
+.col-3 {
+  color: #041791;
+  @extend %styles;
+  background-color: $colortwo;
+}
+
+.col-6 {
+  color: #206632;
+  @extend %styles;
+  background-color: #8bb5f0;
+}

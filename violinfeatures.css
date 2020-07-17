@@ -1,0 +1,29 @@
+.row > div {
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.col-6, .col-3 {
+  font-family: times;
+  font-style: italic;
+}
+
+body {
+  background: #c1f7cf;
+}
+
+.row {
+  font-size: 20px;
+}
+
+.col-3 {
+  color: #041791;
+  background-color: #78e395;
+}
+
+.col-6 {
+  color: #206632;
+  background-color: #8bb5f0;
+}
+
+/*# sourceMappingURL=violinfeatures.css.map */

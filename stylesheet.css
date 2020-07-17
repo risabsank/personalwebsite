@@ -1,0 +1,45 @@
+h1, h3 {
+    text-align: center;
+    background: #78e395;
+    font-family: times;
+  }
+p {
+    padding: 10px;
+    background: #78e395;
+    font-family: times;
+  }
+ul li {
+  background: #78e395;
+  font-family: times;
+}
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  background: white;
+}
+th, td {
+  border: 1px solid black;
+  background: white;
+  font-family: times;
+}
+body {
+  background: #c1f7cf;
+  font-family: times;
+}
+.middle {
+  background: #bbbfbc;
+  font-family: times;
+}
+#content {
+  font-style: italic;
+  background: #78e395;
+  text-align: left;
+  color: #041791;
+  font-family: times;
+}
+.list-group-item {
+  background: #78e395;
+  text-align: left;
+  color: #041791;
+  font-family: times;
+}
